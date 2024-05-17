@@ -4,11 +4,9 @@ import { blue, marron, paste, primary, themeColors } from "./themeColors";
 import { typography } from "./typography";
 
 const THEMES = {
-  GIFT: "GIFT",
-  HEALTH: "HEALTH",
+  
   DEFAULT: "DEFAULT",
-  GROCERY: "GROCERY",
-  FURNITURE: "FURNITURE",
+  
 };
 
 const breakpoints = {
