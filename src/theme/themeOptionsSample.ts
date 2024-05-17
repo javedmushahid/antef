@@ -10,11 +10,9 @@ import { primary, themeColors } from "./themeColors";
  *********************************************/
 
 const THEMES = {
-  GIFT: "GIFT",
-  HEALTH: "HEALTH",
+  
   DEFAULT: "DEFAULT",
-  GROCERY: "GROCERY",
-  FURNITURE: "FURNITURE",
+  
 };
 
 const breakpoints = {
